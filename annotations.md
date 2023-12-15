@@ -23,6 +23,8 @@ Exercise 2: Focus: Shift the model's focus to actor and activities.
 
 Starting Point:
 Implement the following test class and test
+ThePublicProsecutionService.shouldCreateACaseWhenReceivingAPCD.
+
 
 Goal:
 Add actor/ activity elements to our model
